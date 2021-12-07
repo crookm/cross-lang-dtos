@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedDtos.Contracts", "SharedDtos.Contracts\SharedDtos.Contracts.csproj", "{04BCB00B-82DA-4D4B-979B-388D593B9908}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedDtos.Contracts.Generator", "SharedDtos.Contracts.Generator\SharedDtos.Contracts.Generator.csproj", "{A63359BD-4A1B-47B7-BADF-CF0AA0F3E404}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04BCB00B-82DA-4D4B-979B-388D593B9908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04BCB00B-82DA-4D4B-979B-388D593B9908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04BCB00B-82DA-4D4B-979B-388D593B9908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04BCB00B-82DA-4D4B-979B-388D593B9908}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A63359BD-4A1B-47B7-BADF-CF0AA0F3E404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A63359BD-4A1B-47B7-BADF-CF0AA0F3E404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A63359BD-4A1B-47B7-BADF-CF0AA0F3E404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A63359BD-4A1B-47B7-BADF-CF0AA0F3E404}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
